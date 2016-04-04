@@ -1,3 +1,6 @@
+img {
+	max-width: 100%;
+}
 /* Cabecera */
 .logo {
 	width: 100px;
@@ -37,4 +40,23 @@ li {
 }
 .metText {
 	background-image: url(../img/fondo.jpg);
+}
+.proyectos {
+	background-color: #5E8039;
+}
+
+
+
+
+.redes-sociales {
+	width: 80%;
+	display: inline-block;
+}
+.icon {
+	width: 100px;
+	height: 100px;
+}
+
+.contacto {
+	background-color: #4D4D4D;
 }
