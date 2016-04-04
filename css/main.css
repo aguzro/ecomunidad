@@ -20,9 +20,6 @@ li {
 	max-width: 100%;
 	height: 300px;
 }	
-.bannerImg {
-	background-image: url(../img/semilla.jpg);
-}
 
 /* Descripción */
 .descripcion {
